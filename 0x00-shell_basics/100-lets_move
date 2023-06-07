@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -maxdepth 1 -type f -name '[A-Z]*' -exec bash -c 'mv -u "$@" /tmp/u' _ {} +
+mv [[:upper:]]* /tmp/u
