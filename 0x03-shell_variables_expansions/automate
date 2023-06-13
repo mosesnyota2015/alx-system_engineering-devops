@@ -1,5 +1,5 @@
 #!/bin/bash
 chmod u+x *
 git add .
-git commit -m "Shell,redirect"
+git commit -m "Shell,variables expansions"
 git push
